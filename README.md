@@ -1,0 +1,2 @@
+# tipboxcoinlogo
+logo
